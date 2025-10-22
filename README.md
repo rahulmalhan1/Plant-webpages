@@ -102,3 +102,6 @@ This is a school project repo. Mentioned below are the QR codes for different pl
 26. Periwinkle QR
 <img width="330" height="332" alt="image" src="https://github.com/user-attachments/assets/66e812c9-ea87-4f74-8aaf-826fbc544fa1" />
 
+
+27. Devil's Backbone QR
+<img width="329" height="329" alt="image" src="https://github.com/user-attachments/assets/246f85d4-4fcb-41e8-82e0-ae30e08b6764" />
