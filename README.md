@@ -99,4 +99,6 @@ This is a school project repo. Mentioned below are the QR codes for different pl
 <img width="328" height="324" alt="image" src="https://github.com/user-attachments/assets/3c1dbf7d-6ca9-45bd-be4f-fe9a47ba1824" />
 
 
-26. 
+26. Periwinkle QR
+<img width="330" height="332" alt="image" src="https://github.com/user-attachments/assets/66e812c9-ea87-4f74-8aaf-826fbc544fa1" />
+
