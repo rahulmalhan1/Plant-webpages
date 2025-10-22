@@ -12,7 +12,7 @@ This is a school project repo. Mentioned below are the QR codes for different pl
 
 
 4. Sandalwood QR
-<img width="350" height="337" alt="image" src="https://github.com/user-attachments/assets/29754cc6-77e0-4a92-b901-6a2424f989be" />
+<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/d455ba6d-6a43-406c-987a-6096fd25a9b1" />
 
 
 5. Hibiscus QR
