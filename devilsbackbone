@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Euphorbia tithymaloides</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Set Inter as the default font -->
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800 antialiased">
+
+    <!-- Main Content Container -->
+    <div class="container mx-auto max-w-4xl p-6 sm:p-10 my-10 bg-white rounded-lg shadow-lg">
+
+        <!-- Header Section -->
+        <header class="text-center mb-8">
+            <h1 class="text-4xl sm:text-5xl font-bold text-red-700 mb-2">
+                Devil's Backbone
+            </h1>
+            <p class="text-xl text-gray-600">(Euphorbia tithymaloides)</p>
+        </header>
+
+        <!-- Main Image -->
+        <div class="mb-8">
+            <img src="https://placehold.co/800x400/DC2626/FFFFFF?text=Devil's+Backbone" 
+                 alt="The zigzag stem of the Devil's Backbone plant"
+                 onerror="this.src='https://placehold.co/800x400/E0E0E0/707070?text=Image+Not+Available'"
+                 class="w-full h-auto max-h-96 object-cover rounded-lg shadow-md">
+        </div>
+
+        <!-- Introduction Section -->
+        <section class="mb-8">
+            <h2 class="text-3xl font-semibold text-red-600 border-b-2 border-red-200 pb-2 mb-4">
+                What is Euphorbia tithymaloides?
+            </h2>
+            <p class="text-lg leading-relaxed text-gray-700">
+                <em>Euphorbia tithymaloides</em> (formerly <em>Pedilanthus tithymaloides</em>) is a perennial succulent shrub in the family Euphorbiaceae. It is commonly known as Devil's Backbone, Zigzag Plant, or Slipper Plant. It is native to tropical and subtropical North and Central America. It is grown as an ornamental houseplant or garden plant.
+            </p>
+        </section>
+
+        <!-- Botanical Description -->
+        <section class="mb-8">
+            <h2 class="text-3xl font-semibold text-red-600 border-b-2 border-red-200 pb-2 mb-4">
+                Botanical Description
+            </h2>
+            <p class="text-lg leading-relaxed text-gray-700 mb-4">
+                The plant's most notable feature is its thick, succulent stem that grows in a "zigzag" pattern, giving it the "Devil's Backbone" name. It has simple, oval-shaped leaves that are often variegated with white, pink, or red, especially in full sun. The "flowers" are actually small, slipper-shaped, red or pink bracts (cyathia) that appear at the end of the stems.
+            </p>
+            <p class="text-lg leading-relaxed text-gray-700 font-bold text-red-700 mt-4">
+                <strong>Warning:</strong> Like all Euphorbias, this plant produces a milky white sap (latex) that is toxic and can cause skin irritation, eye irritation, and is poisonous if ingested.
+            </p>
+        </section>
+
+        <!-- Uses and Benefits -->
+        <section class="mb-8">
+            <h2 class="text-3xl font-semibold text-red-600 border-b-2 border-red-200 pb-2 mb-4">
+                Ornamental & Traditional Uses
+            </h2>
+            <p class="text-lg leading-relaxed text-gray-700 mb-4">
+                It is primarily grown for its unique appearance.
+            </p>
+            <h3 class="text-2xl font-semibold text-gray-800 mb-3">Key Uses:</h3>
+            <ul class="list-disc list-inside space-y-2 text-lg text-gray-700">
+                <li><strong>Houseplant:</strong> A popular, low-maintenance houseplant prized for its structural, zigzag stems.</li>
+                <li><strong>Xeriscaping:</strong> Used in warm-climate gardens as a drought-tolerant ornamental shrub.</li>
+                <li><strong>Folk Medicine:</strong> In some cultures, the sap was used (with extreme caution) in traditional remedies, but this is not recommended due. to its toxicity.</li>
+            </ul>
+        </section>
+
+        <!-- Cultivation -->
+        <section>
+            <h2 class="text-3xl font-semibold text-red-600 border-b-2 border-red-200 pb-2 mb-4">
+                How to Grow Devil's Backbone
+            </h2>
+            <p class="text-lg leading-relaxed text-gray-700 mb-4">
+                This is a very tough and easy-to-grow succulent.
+            </p>
+            <ul class="list-disc list-inside space-y-2 text-lg text-gray-700">
+                <li><strong>Sunlight:</strong> Prefers bright, indirect light indoors. Outdoors, it can take full sun, which enhances the red and pink colors.</li>
+                <li><strong>Soil:</strong> Needs very well-drained soil, like a cactus or succulent mix.</li>
+                <li><strong>Watering:</strong> Water thoroughly, then allow the soil to dry out almost completely before watering again.</li>
+                <li><strong>Propagation:</strong> Very easy to propagate from stem cuttings (wear gloves when handling).</li>
+            </ul>
+        </section>
+
+        <!-- Footer -->
+        <footer class="text-center text-gray-500 mt-12 border-t pt-6">
+            <p>Information on the Devil's Backbone plant.</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
